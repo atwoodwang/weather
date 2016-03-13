@@ -192,6 +192,7 @@ windDir = {
     "NNW": "\033[1m↘\033[0m",
 }
 
+# When weather description is too long and influence the display, abbreviate it.
 weatherAbbre = {
     "Patchy light rain in area with thunder":"Rain with thunder",
     "Moderate or heavy rain shower":"Rain shower",
