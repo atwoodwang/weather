@@ -4,11 +4,11 @@ A Linux/Unix terminal weather client written in Python 3.
 ##Features
 ![Screenshot](http://i.imgur.com/atSxkCT.png)
 
-- show forecast for 1 to 5 days
-- nice ASCII art icons
-- displayed info (metric or imperial units):
-  - temperature
-  - windspeed and direction
+- Show forecast for 1 to 5 days
+- Nice ASCII art icons
+- Displayed info (metric or imperial units):
+  - Temperature
+  - Windspeed and direction
   - Probability of Precipitation
   - Humidity
 
