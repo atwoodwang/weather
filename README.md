@@ -24,7 +24,7 @@ Input format:
 or
 
 ```
-~/weather_py/src$ python weather.py [US ZIPCODE]
+~/weather/src$ python weather.py [US ZIPCODE]
 ```
 
 ##References
